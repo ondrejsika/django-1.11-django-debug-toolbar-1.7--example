@@ -1,5 +1,7 @@
 *.pyc
 *.sqlite3
 
+.env
+
 *.swp
 
